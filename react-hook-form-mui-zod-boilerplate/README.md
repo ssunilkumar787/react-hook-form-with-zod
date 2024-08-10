@@ -1,6 +1,6 @@
 # React Hook Form Controllers for MUI Components and Zod Schema
 
-[My YouTube Channel](https://www.youtube.com/@codegenix)
+
 
 This boilerplate repository provides a collection of React Hook Form controllers for all Material-UI components, along with Zod schema validation for enhanced form handling and data integrity.
 
